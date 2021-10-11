@@ -1,3 +1,10 @@
 body{
     background: #BDBDBD;
 }
+div > .card-body > h5{
+    color:rgb(85, 129, 187);
+}
+
+div.card.h-100{
+    border: 0px;
+}
