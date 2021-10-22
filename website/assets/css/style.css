@@ -1,6 +1,6 @@
-body{
+/*body{
     background: white;
-}
+}*/
 
 .heading-text {
     padding: 30px;
@@ -16,4 +16,8 @@ div > .card-body > h5{
 
 div.card.h-100{
     border: 0px;
+}
+
+.navbar-text{
+    margin-right: 10px;
 }
